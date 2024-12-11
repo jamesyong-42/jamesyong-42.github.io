@@ -1,15 +1,15 @@
 {
   "basic": {
-    "name": "James Yong",
-    "email": "me@jamesyong42.com",
-    "linkedin": "https://www.linkedin.com/in/jamesyong42/",
+    "name": "Ethan",
+    "email": "me@ethan.com",
+    "linkedin": "https://www.linkedin.com/in/enthan/",
     "resume": "RESUME_XXX_GDDI.pdf"
   },
   "home": {
-    "heroSentence": "a professional game developer",
+    "heroSentence": "a professional technical artist",
     "projects": [
       {
-        "name": "Lorem Ipsum1",
+        "name": "Game1",
         "year": "2024",
         "keywords": ["Unreal Engine", "Shader"],
         "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
@@ -32,7 +32,7 @@
           },
           {
             "value": "/projects/cleo/1.mp4",
-            "type": "video-muted"
+            "type": "video"
           },
           {
             "value": "/projects/cleo/2.mp4",
